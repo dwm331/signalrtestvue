@@ -1,10 +1,12 @@
 # signalrtestvue
 
 測試與dotnet signalr 通訊的用
-功能:
-1.接收通知 BusUpdate，執行呼叫API 
-2.接收通知 SetHubConnId，存取Client ID
-2.發送通知 到 Server
+
+功能
+
+- 接收通知 BusUpdate，執行呼叫API
+- 接收通知 SetHubConnId，存取Client ID
+- 發送通知 到 Server
 
 ## Project setup
 ```
